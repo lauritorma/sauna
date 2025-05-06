@@ -1,0 +1,23 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#3a2618"/>
+  
+  <!-- Sauna walls -->
+  <rect x="100" y="100" width="600" height="400" fill="#8b5a2b"/>
+  
+  <!-- Sauna benches -->
+  <rect x="150" y="300" width="500" height="50" fill="#d2b48c"/>
+  <rect x="150" y="400" width="500" height="50" fill="#d2b48c"/>
+  
+  <!-- Sauna stove -->
+  <rect x="200" y="200" width="100" height="150" fill="#444"/>
+  <circle cx="250" cy="250" r="30" fill="#ff6600"/>
+  
+  <!-- Steam rocks -->
+  <ellipse cx="250" cy="220" rx="40" ry="20" fill="#777"/>
+  
+  <!-- Window -->
+  <rect x="500" y="150" width="100" height="100" fill="#87ceeb"/>
+  <line x1="550" y1="150" x2="550" y2="250" stroke="#fff" stroke-width="2"/>
+  <line x1="500" y1="200" x2="600" y2="200" stroke="#fff" stroke-width="2"/>
+</svg>
